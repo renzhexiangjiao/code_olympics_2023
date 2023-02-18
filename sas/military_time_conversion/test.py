@@ -5,7 +5,7 @@ def test_hour_represented_24_hour_clock():
     assert military_time_conversion("12AM") == "zero"
     assert military_time_conversion("7AM") == "seven"
     assert military_time_conversion("1PM") == "thirteen"
-    assert military_time_conversion("11PM") == "twenty-three"
+    assert military_time_conversion("11PM") == "twenty three"
 
 
 def test_exact_hour():
