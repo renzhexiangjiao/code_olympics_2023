@@ -1,4 +1,4 @@
-# SAS Challenge - On the subject of memory Challenge
+# SAS Challenge - Code Olympic Headcount
 
 ## Team
 
